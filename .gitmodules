@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "flexsurvcure"]
+	path = flexsurvcure
+	url = https://github.com/jrdnmdhl/flexsurvcure
+	shallow = true
+	registered = true
